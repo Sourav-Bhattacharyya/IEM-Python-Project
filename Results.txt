@@ -1,0 +1,24 @@
+Name: Sourav
+Roll number: 1
+Marks in Physics: 65
+Grade in Physics: D
+Marks in Python Programming: 95
+Grade in Python Programming: A
+Name: Rahul
+Roll number: 1
+Marks in Physics: 78
+Grade in Physics: C
+Marks in Python Programming: 73
+Grade in Python Programming: C
+Name: Soham
+Roll number: 2
+Marks in Physics: 34
+Grade in Physics: F
+Name: Srijit
+Roll number: 3
+Marks in Physics: 95
+Grade in Physics: A
+Name: Souvik
+Roll number: 2
+Marks in Physics: 85
+Grade in Physics: B
