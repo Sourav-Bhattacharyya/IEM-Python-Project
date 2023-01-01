@@ -3,7 +3,8 @@
 
 # In[12]:
 
-
+import plotly.io as pio
+pio.renderers.default='browser'
 import pandas as pd
 dfs=pd.read_csv("STUDENTS.csv",index_col="Student Id")
 print(dfs)
